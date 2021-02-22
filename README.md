@@ -5,4 +5,5 @@ _Con esta API se puede obtener la información completa de un código postal, ad
 * Obtener un listado de municipios por estado.
 * Obtener un listado de Códigos postales por municipio.
 * Obtener un listado de Colonias por Código postal.
+### Nota
 _Todos los métodos disponibles de la API reciben la petición por GET, por lo que podrás probar directo en tu navegador_.
